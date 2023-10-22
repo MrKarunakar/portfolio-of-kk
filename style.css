@@ -508,6 +508,9 @@ form .send-btn:hover{
         margin: 0 2rem;
         width: 20rem;
     }
+     form .send-btn{
+        width: 40%;
+    }
 }
 
 .anmbg ul li{
